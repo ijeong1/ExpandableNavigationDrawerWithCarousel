@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{CF4EC1BF-08FA-44F4-BD14-E3AAB9E2B73B}|Default">
+  <MonoDevelop.Ide.ItemProperties.ExpandableNavigationDrawer.iOS TriggeredFromHotReload="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.557032C7-EB29-4F39-AF7F-0055A73E589F" />
+  <MonoDevelop.Ide.ItemProperties.ExpandableNavigationDrawer.Android PreferredExecutionTarget="Android.pixel_3a_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ExpandableNavigationDrawer/MainPage.xaml">
+    <Files>
+      <File FileName="ExpandableNavigationDrawer/MainPage.xaml.cs" Line="14" Column="33" />
+      <File FileName="ExpandableNavigationDrawer/MainPage.xaml" Line="15" Column="1" />
+      <File FileName="ExpandableNavigationDrawer.iOS/Main.cs" Line="17" Column="23" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ExpandableNavigationDrawer" expanded="True">
+            <Node name="ExpandableNavigationDrawer" expanded="True">
+              <Node name="MainPage.xaml" expanded="True" selected="True" />
+            </Node>
+            <Node name="ExpandableNavigationDrawer.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
