@@ -3,7 +3,7 @@
 # Demo
 ![demo](https://github.com/ijeong1/ExpandableNavigationDrawerWithCarousel/blob/main/demo.gif)
 
-# Important mechanism for this
+# How it works
 Expanding Animation effect from startingHeight 50 to endingHeight 250
 ```
 Action<double> callback = input => expandableNavigation.HeightRequest = input;
