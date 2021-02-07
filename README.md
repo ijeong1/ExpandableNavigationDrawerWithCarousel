@@ -25,3 +25,5 @@ uint length = 3000;
 Easing easing = Easing.CubicOut;
 expandableNavigation.Animate("invis", callback, startingHeight, endingHeight, rate, length, easing);
 ```
+Todo
+Implment this to a custom control.
